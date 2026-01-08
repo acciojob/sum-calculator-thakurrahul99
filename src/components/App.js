@@ -1,13 +1,13 @@
 
 import React from "react";
 import './../styles/App.css';
-import sumCalculator from "Sumcalculator"
+import SumCalculator from "Sumcalculator"
 
 const App = () => {
   return (
     <div>
         {/* Do not remove the main div */}
-    <sumCalculator />
+    <SumCalculator />
     </div>
   )
 }
